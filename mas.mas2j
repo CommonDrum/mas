@@ -14,8 +14,7 @@ MAS mas {
 
     environment: example.Env(10)
 
-    agents: bob;
-            alice;
+    agents: alice;
 
     aslSourcePath: "src/agt";
 }
